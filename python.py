@@ -1,1 +1,2 @@
-print "Tớ xin lỗi cậu"
+while True: # :))
+  print("Tớ xin lỗi cậu")
