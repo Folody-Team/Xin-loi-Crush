@@ -1,3 +1,4 @@
 @ECHO OFF
-Tớ xin lỗi cậu
-start https://folody.tk
+:eep
+echo Tớ xin lỗi cậu
+goto eep
