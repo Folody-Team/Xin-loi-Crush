@@ -1,6 +1,4 @@
-echo Tớ xin lỗi cậu
-echo Tớ xin lỗi cậu
-echo Tớ xin lỗi cậu
-echo Tớ xin lỗi cậu
-echo Tớ xin lỗi cậu
-echo Tớ xin lỗi cậu
+while [true]
+do
+  echo Tớ xin lỗi cậu
+done
